@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:text="Nuevo"
             app:cornerRadius="20dp"
-            android:backgroundTint="#4CAF50"
+            android:backgroundTint="#002685"
             android:layout_marginRight="5dp"/>
 
         <Button
